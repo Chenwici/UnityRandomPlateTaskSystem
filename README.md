@@ -1,0 +1,2 @@
+# UnityRandomPlateTaskSystem
+用Unity製作的隨機擺盤系統,用於機械手臂視覺控制展示之用途。
